@@ -1,0 +1,15 @@
+.login-form{
+    padding: 30px;
+    height: 50vh;
+    width: 380px;
+    margin: 50px auto;
+    border-radius: 10px;
+  
+}
+
+
+h3{
+    color: #fe8c00;
+    background-color: rgb(47, 47, 110) !important;
+    border-radius: 10px;
+}

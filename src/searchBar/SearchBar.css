@@ -1,0 +1,11 @@
+#text{
+    width: 98%;
+    font-size: 18px;
+    padding: 10px;
+  }
+
+  #text[type=text] {
+    border: none;
+    border-bottom: 3px solid rgb(47, 47, 110);
+    color: red;
+  }

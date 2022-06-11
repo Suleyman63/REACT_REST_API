@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "TITLE1",
+      "price": 9,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "title": "TITLE2",
+      "price": 1,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "title": "TITLE3",
+      "price": 7,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "title": "TITLE4",
+      "price": 6,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "title": "TITLE5",
+      "price": 12,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "title": "TITLE6",
+      "price": 15,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "title": "TITLE7",
+      "price": 15,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "title": "TITLE8",
+      "price": 13,
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://images.unsplash.com/photo-1637386694450-70e88f7ddbbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}

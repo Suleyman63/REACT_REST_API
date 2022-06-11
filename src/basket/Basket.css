@@ -1,0 +1,92 @@
+ *{
+  font-family: 'Lora', serif;
+}
+h4{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    color: #fe8c00;
+   text-align: left;
+   background-color:  rgb(47, 47, 110);
+   border-radius: 10px;
+   height: 50px;
+  }
+
+  h6, h5{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    color: #fe8c00;
+   text-align: left;
+  }
+ 
+ .basket-header{
+  display: grid;
+ }
+ 
+ .basket-btn{
+ display: grid;
+ margin-top: 10px;
+ justify-content: space-between;
+ 
+ }
+
+ .section-center {
+  width: 100vw;
+  display: grid;
+  gap: 3rem 2rem;
+  justify-items: center;
+  font-family: 'Lora', serif;
+  
+}
+
+.basket-item {
+  display: grid;
+  max-width: 25rem;
+  margin-top: .5rem;
+  padding: 2rem;
+  border: 1px solid #fe8c00;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px 3px;
+}
+
+.image {
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+  border: 0.25rem solid #fe8c00;
+  border-radius: 0.25rem;
+  display: block;
+}
+
+
+
+.item-info header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.5px dotted rgb(47, 47, 110);
+}
+
+
+.item-info h4 {
+  margin-bottom: 1rem;
+}
+
+
+.price {
+  color: #fe8c00;
+}
+.item-text {
+  margin-bottom: 0;
+}
+
+
+@media screen and (min-width: 768px) {
+  .basket-item {
+    grid-template-columns: 200px 1fr;
+    gap: 0 1.25rem;
+    max-width: 100%;
+    margin-top: 30px;
+  }
+  .photo {
+    height: 175px;
+  }
+} 

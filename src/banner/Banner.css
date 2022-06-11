@@ -1,0 +1,35 @@
+.banner{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Lora', serif;
+}
+
+
+.carousel-indicators button {
+    border-radius: 300px;
+  }
+
+  .banner-img{
+      display: flex;
+      width: 100%;
+      height: 400px;
+  }
+  
+  .carousel-inner {
+    max-height: 400px;
+  }
+  
+  .carousel-inner > .item {
+    position: relative;
+    max-height: 600px;
+  }
+  .carousel-caption {
+    top: 28%;
+    transform: translateX(-20%);
+  }
+  
+  .carousel-desc-text {
+    font-size: calc(0.9vw + 8px);
+    text-align: center;
+    color: darkblue;
+  }
